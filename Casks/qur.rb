@@ -1,6 +1,6 @@
 cask "qur" do
-  version "0.1.8"
-  sha256 "49f9b460fadea8e33786d6f003c2ed9acc2ec3b644d9781d6f4df0ebf89bfb44"
+  version "0.1.9"
+  sha256 "e25e7117e757536587ca588474a424591894c106ff3c0feff215c28e05242585"
 
   url "https://github.com/PEUR-Technologies/Qur/releases/download/v#{version}/Qur.zip"
   name "Qur"
